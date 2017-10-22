@@ -13,4 +13,4 @@ Just sit and relax, type in your credentials on terminal and its done. The repos
 
 PhantomJS is a ghost web driver that does not show the browser but works invisibly exactly same as chrome driver. To use PhantomJS, redefine browser variable in the code as shown below.
 	
-	browser = webdriver.PhantomJS(os.path.dirname(__file__)+'/../..'+'/Drivers/phantomjs/bin/phantomjs.exe')
+	browser = webdriver.PhantomJS(os.path.dirname(__file__)+'/../..'+'/drivers/phantomjs/bin/phantomjs.exe')
