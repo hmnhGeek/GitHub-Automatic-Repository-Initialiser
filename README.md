@@ -9,3 +9,6 @@ Just sit and relax, type in your credentials on terminal and its done. The repos
 	3. Type password for your github account on the prompt.
 	4. Its done. See the magic happening. ;)
 
+## PhantomJS
+
+PhantomJS is a ghost web driver that does not show the browser but works invisibly exactly same as chrome driver. 
